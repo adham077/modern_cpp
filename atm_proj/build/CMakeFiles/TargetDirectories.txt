@@ -1,0 +1,3 @@
+C:/CPP/atm_proj/build/CMakeFiles/atm.dir
+C:/CPP/atm_proj/build/CMakeFiles/edit_cache.dir
+C:/CPP/atm_proj/build/CMakeFiles/rebuild_cache.dir
